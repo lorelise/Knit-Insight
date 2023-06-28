@@ -1,0 +1,31 @@
+C:\Users\britl\Documents\code louisville\Knit Insight\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\britl\Documents\code louisville\Knit Insight\bin\Debug\net6.0\appsettings.json
+C:\Users\britl\Documents\code louisville\Knit Insight\bin\Debug\net6.0\Knit Insight.staticwebassets.runtime.json
+C:\Users\britl\Documents\code louisville\Knit Insight\bin\Debug\net6.0\Knit Insight.exe
+C:\Users\britl\Documents\code louisville\Knit Insight\bin\Debug\net6.0\Knit Insight.deps.json
+C:\Users\britl\Documents\code louisville\Knit Insight\bin\Debug\net6.0\Knit Insight.runtimeconfig.json
+C:\Users\britl\Documents\code louisville\Knit Insight\bin\Debug\net6.0\Knit Insight.dll
+C:\Users\britl\Documents\code louisville\Knit Insight\bin\Debug\net6.0\Knit Insight.pdb
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.csproj.AssemblyReference.cache
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.AssemblyInfoInputs.cache
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.AssemblyInfo.cs
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.csproj.CoreCompileInputs.cache
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.RazorAssemblyInfo.cache
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.RazorAssemblyInfo.cs
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\staticwebassets\msbuild.Knit Insight.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\staticwebassets\msbuild.build.Knit Insight.props
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Knit Insight.props
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Knit Insight.props
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\scopedcss\bundle\Knit Insight.styles.css
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\scopedcss\projectbundle\Knit Insight.bundle.scp.css
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.dll
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\refint\Knit Insight.dll
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.pdb
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\Knit Insight.genruntimeconfig.cache
+C:\Users\britl\Documents\code louisville\Knit Insight\obj\Debug\net6.0\ref\Knit Insight.dll
